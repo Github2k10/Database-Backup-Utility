@@ -5,6 +5,10 @@ __pycache__/
 
 # C extensions
 *.so
+*.sql
+
+# Dir
+/backup
 
 # Distribution / packaging
 .Python
